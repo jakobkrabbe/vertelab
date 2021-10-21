@@ -23,7 +23,7 @@
     'name': 'Vertel AB Generic Module',
     'summary': 'To be able to have.....',
     'author': 'Vertel AB',
-    'contributor': '',
+    'contributor': 'Mitchell Admin',
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/jakobkrabbe/vertelab/',
     'category': 'Tools',
