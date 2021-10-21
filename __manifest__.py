@@ -23,7 +23,7 @@
     'name': 'Vertel AB Generic Module',
     'summary': 'To be able to have.....',
     'author': 'Vertel AB',
-    'contributor': 'Mitchell Admin',
+    'contributor': '',
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-event.git',
     'category': 'Tools',
