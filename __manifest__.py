@@ -24,7 +24,7 @@
     'version': '14.0.1.2.3',
     'author': 'Vertel AB',
     'maintainer': "Vertel AB',
-    'repository': 'https://github.com/jakobkrabbe/vertelab/tree/main',
+    'repository': 'https://github.com/jakobkrabbe/vertelab/',
     'license': 'AGPL-3',
     'website': 'https://vertel.se/',
     'category': 'Tools',
