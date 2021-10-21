@@ -23,7 +23,7 @@
     'name': 'Vertel AB Generic Module',
     'version': '14.0.1.2.3',
     'author': 'Vertel AB',
-    'maintainer': "Vertel AB',
+    'maintainer': 'Developer Name',
     'repository': 'https://github.com/jakobkrabbe/vertelab/',
     'license': 'AGPL-3',
     'website': 'https://vertel.se/',
@@ -39,7 +39,7 @@
     ],
     'application': False,
     'installable': True,
-    'auto_install': True,
+    'auto_install': False,
 }
 
 # vim:expandtab:smartindent:tabstop=4s:softtabstop=4:shiftwidth=4:
