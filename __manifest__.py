@@ -30,7 +30,7 @@
     'website': 'https://vertel.se/',
     'category': 'Tools',
     'depends': [
-        'contacts'
+        #'contacts'
     ],
     'external_dependencies': [
     ],
