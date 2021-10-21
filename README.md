@@ -1,4 +1,4 @@
-Vertel Template Module
+Vertel AB Template Module
 ==================
 
 This is template module that provide format of module structure.
