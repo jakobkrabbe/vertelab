@@ -21,14 +21,26 @@
 
 {
     'name': 'Vertel AB Generic Module',
-    'version': '14.0.1.2.3',
+    'summary': 'To be able to have.....',
     'author': 'Vertel AB',
+    'contributor': '',
     'maintainer': 'Vertel AB',
-    'contributor': 'Developer Name',
+    'repository': 'https://github.com/jakobkrabbe/vertelab/',
+    'category': 'Tools',
+    'version': '14.0.1.2.3',
+    # Version ledger: 14.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
     'repository': 'https://github.com/jakobkrabbe/vertelab/',
     'license': 'AGPL-3',
     'website': 'https://vertel.se/',
-    'category': 'Tools',
+    'description': """
+        To be able to have multiple partners on event. \n
+        14.0.0.1
+            - Changed Maximum seat to Available seat
+            - Improved access right for event partners
+        14.0.0.2
+            - Improvement to Event Access Right
+            - Added the available seats to tree and form view
+    """,
     'depends': [
         #'contacts'
     ],
