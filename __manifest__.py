@@ -21,7 +21,7 @@
 
 {
     'name': 'Vertel AB Generic Module',
-    'summary': 'To be able to have.....',
+    'summary': '...',
     'author': 'Vertel AB',
     'contributor': '',
     'maintainer': 'Vertel AB',
